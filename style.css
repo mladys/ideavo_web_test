@@ -1,0 +1,49 @@
+/*@import url('https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap');*/
+
+
+/*  Importing all component files */
+@import url('css/components/container.css');
+@import url('css/components/cta_button.css');
+@import url('css/components/header.css');
+@import url('css/components/navbar.css');
+@import url('css/components/slogan_header.css');
+@import url('css/components/header_text_box.css');
+
+/*  General style rules */
+html {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: 'Hind';
+  /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+
+  padding: 0px;
+  margin: 0px;
+}
+
+
+h1 {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 10px
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 18px;
+}
+
+.paragraph {
+  font-size: 22px;
+  color: white;
+  margin-top: 0px;
+  padding-top: 0px;
+  line-height: 1.3;
+}
+
+

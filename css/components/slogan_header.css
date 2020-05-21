@@ -1,0 +1,14 @@
+.header_text_box {
+float: left;
+
+}
+
+
+.slogan_header {
+  font-size: 42px;
+  font-weight: 3000;
+  color: #FFFFFF;
+  padding-bottom: 0px;
+  margin-bottom: 15px;
+  float: left;
+}
